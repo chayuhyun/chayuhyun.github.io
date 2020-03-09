@@ -71,9 +71,6 @@
 - Licence
 
     [chayu@snu.ac.kr](mailto:chayu@snu.ac.kr)
-    46138
-     *Cnv0rxyQLwuw
-     FSXpWOLM/6cro
 
 [20.02.03] Terminal 설치
 
