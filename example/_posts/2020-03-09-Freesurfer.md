@@ -70,8 +70,6 @@
 
 - Licence
 
-    [chayu@snu.ac.kr](mailto:chayu@snu.ac.kr)
-
 [20.02.03] Terminal 설치
 
     export FREESURFER_HOME=/Applications/freesurfer
